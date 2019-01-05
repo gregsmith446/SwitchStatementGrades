@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchStatements", "switchStatements\switchStatements.csproj", "{A799535E-37E8-41A2-B165-04F9969DE6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A799535E-37E8-41A2-B165-04F9969DE6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A799535E-37E8-41A2-B165-04F9969DE6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A799535E-37E8-41A2-B165-04F9969DE6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A799535E-37E8-41A2-B165-04F9969DE6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
